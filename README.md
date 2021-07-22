@@ -1,6 +1,7 @@
 # AMS-CDT-first-year-report
 This repository is the code and output simulations from my first year report
-For the MTEX analysis, you must run them in order
+
+For the MTEX analysis, you must run them in order:
 
 1: ags1.m 
 
